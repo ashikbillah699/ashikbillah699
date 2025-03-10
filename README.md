@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="340" src="https://i.ibb.co.com/4RvQvywC/github-cover.png"  />
+</div>
+
+###
+
 <h1 align="left">Hi there, I'm Md. Ashik Billah 👋</h1>
 
 ###
@@ -46,12 +52,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="340" src="https://i.ibb.co.com/4RvQvywC/github-cover.png"  />
 </div>
 
 ###
